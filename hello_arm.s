@@ -92,7 +92,7 @@ _start:
 // =============================================================================
 // VERIFICATION CHECKLIST
 // =============================================================================
-// After running 'make sim_lab00', open the waveform viewer (Surfer) and verify:
+// After running 'make sim', open the waveform viewer (Surfer) and verify:
 //
 //   [ ] X0 = 10  (0x0A in hexadecimal)
 //   [ ] X1 = 5   (0x05)
